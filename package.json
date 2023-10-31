@@ -1,0 +1,9 @@
+{
+  "name": "airbnb-trash-listings-hide-userscript",
+  "devDependencies": {
+    "standard": "*"
+  },
+  "scripts": {
+    "test": "standard"
+  }
+}
