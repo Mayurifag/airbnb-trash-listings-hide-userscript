@@ -1,4 +1,4 @@
-# Airbnb search enhancer
+# Airbnb trash listings hide userscript
 
 ## Description
 
@@ -13,4 +13,4 @@ Default settings (changeable directly in the script src):
 ## Installation
 
 1. Install a userscript manager for your browser, e.g. [ViolentMonkey](https://violentmonkey.github.io/get-it/).
-2. Install the script <https://github.com/Mayurifag/airbnb-trash-listings-hide-userscript/userscript.js>
+2. Install the script <https://raw.githubusercontent.com/Mayurifag/airbnb-trash-listings-hide-userscript/main/userscript.js>
